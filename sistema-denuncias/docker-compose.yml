@@ -1,0 +1,16 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: denuncias_db
+    environment:
+      POSTGRES_DB: denuncias
+      POSTGRES_USER: denuncias
+      POSTGRES_PASSWORD: denuncias
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+volumes:
+  pg_data:
+
+

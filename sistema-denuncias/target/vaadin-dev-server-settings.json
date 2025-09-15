@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/José/Desktop/ProjetoFinalPSSI/sistema-denuncias/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/José/Desktop/ProjetoFinalPSSI/sistema-denuncias/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/José/Desktop/ProjetoFinalPSSI/sistema-denuncias/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\José\\Desktop\\ProjetoFinalPSSI\\sistema-denuncias\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\José\\Desktop\\ProjetoFinalPSSI\\sistema-denuncias\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/José/Desktop/ProjetoFinalPSSI/sistema-denuncias/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/José/Desktop/ProjetoFinalPSSI/sistema-denuncias/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/José/Desktop/ProjetoFinalPSSI/sistema-denuncias/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\José\\Desktop\\ProjetoFinalPSSI\\sistema-denuncias\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
